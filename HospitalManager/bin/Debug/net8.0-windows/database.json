@@ -1,0 +1,62 @@
+{
+  "Patients": [],
+  "Services": [
+    {
+      "Id": 1,
+      "Name": "Panadol Extra",
+      "Unit": "Vi\u00EAn",
+      "Price": 2500,
+      "Type": "Drug",
+      "CategoryName": "Gi\u1EA3m \u0111au \u0026 H\u1EA1 s\u1ED1t"
+    },
+    {
+      "Id": 2,
+      "Name": "Vitamin C 500mg",
+      "Unit": "V\u1EC9",
+      "Price": 15000,
+      "Type": "Drug",
+      "CategoryName": "Vitamin \u0026 Kho\u00E1ng ch\u1EA5t"
+    },
+    {
+      "Id": 3,
+      "Name": "Amoxicillin",
+      "Unit": "V\u1EC9",
+      "Price": 25000,
+      "Type": "Drug",
+      "CategoryName": "Kh\u00E1ng sinh"
+    }
+  ],
+  "Visits": [],
+  "Categories": [
+    {
+      "Id": 1,
+      "Name": "Kh\u00E1ng sinh"
+    },
+    {
+      "Id": 2,
+      "Name": "Gi\u1EA3m \u0111au \u0026 H\u1EA1 s\u1ED1t"
+    },
+    {
+      "Id": 3,
+      "Name": "Vitamin \u0026 Kho\u00E1ng ch\u1EA5t"
+    },
+    {
+      "Id": 4,
+      "Name": "D\u1EE5ng c\u1EE5 y t\u1EBF"
+    }
+  ],
+  "Users": [
+    {
+      "Username": "admin",
+      "Password": "123",
+      "DisplayName": "Qu\u1EA3n tr\u1ECB vi\u00EAn",
+      "Role": "Admin"
+    },
+    {
+      "Username": "bacsi",
+      "Password": "1",
+      "DisplayName": "BS. Nguy\u1EC5n V\u0103n A",
+      "Role": "Doctor"
+    }
+  ]
+}
